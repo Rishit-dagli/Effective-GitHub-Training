@@ -2,12 +2,10 @@
 
 ### Try status badges
 
-#### CI badges
-![Android CI](https://github.com/Rishit-dagli/Effective-GitHub-Training/workflows/Android%20CI/badge.svg)
-
-#### Custom badges
-[![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech)
-[![](https://img.shields.io/badge/Ricardo-Prins-brightgreen.svg?colorB=ff0000)](https://blog.iamprins.com/)
+|Badge type|Badge|
+|------------|----------|
+|CI badges|![Android CI](https://github.com/Rishit-dagli/Effective-GitHub-Training/workflows/Android%20CI/badge.svg)|
+|Custom badges|[![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech) [![](https://img.shields.io/badge/Ricardo-Prins-brightgreen.svg?colorB=ff0000)](https://blog.iamprins.com/)|
 
 The training and experimentation repo for the session: "Effective GitHub"
 
