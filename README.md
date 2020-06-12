@@ -1,5 +1,8 @@
 # Effective-GitHub-Training
 
+## Try status badges
+
+### CI badges
 ![Android CI](https://github.com/Rishit-dagli/Effective-GitHub-Training/workflows/Android%20CI/badge.svg)
 
 The training and experimentation repo for the session: "Effective GitHub"
