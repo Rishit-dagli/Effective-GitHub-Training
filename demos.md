@@ -10,5 +10,10 @@ This file contains all demo commands used for Effective GitHub training.
 mkdir effective-github-demo-1
 git init
 nano test.py
-git add test.py
 ```                
+
+- Add to staging area
+
+```sh
+git add test.py
+```
