@@ -17,3 +17,22 @@ nano test.py
 ```sh
 git add test.py
 ```
+
+## Commits and remote
+
+- Make a repo on GitHub
+- Add remote path
+
+```sh
+echo "# testing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/<username>/<repo>.git
+```                
+
+- Push changes
+
+```sh
+git push -u origin master
+```
