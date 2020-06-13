@@ -11,6 +11,10 @@
 
 The training and experimentation repo for the session: "Effective GitHub"
 
+### [LiveStream and/ or recording](https://www.youtube.com/watch?v=LaEQZZyDFk0)
+
+### Content of the workshop
+
 - What is a version control system
 - Git x GitHub
 - Basic git concepts: (I was thinking of using only Bash at this point)
